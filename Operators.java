@@ -1,10 +1,4 @@
 
-package com.learn.operators;
-
-/**
- *
- * @author susha
- */
 public class Operators {
 
     void Arithmetic() {

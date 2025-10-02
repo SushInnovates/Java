@@ -15,7 +15,7 @@ class Demo {
 class Child extends Demo {
     void showChild() {
         System.out.println("Access in Child → public: " + pub);
-        // System.out.println(pri); // ❌ private not accessible
+        // System.out.println(pri); //  private not accessible
         System.out.println("Access in Child → default: " + def);
         System.out.println("Access in Child → protected: " + pro);
     }
@@ -25,7 +25,7 @@ public class AccessTest {
     public static void main(String[] args) {
         Demo d = new Demo();
         System.out.println("Access in Main → public: " + d.pub);
-        // System.out.println(d.pri); // ❌ private not accessible
+        // System.out.println(d.pri); //  private not accessible
         System.out.println("Access in Main → default: " + d.def);
         System.out.println("Access in Main → protected: " + d.pro);
 

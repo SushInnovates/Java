@@ -1,7 +1,7 @@
 import java.util.*;
 public class Circle {
     public static void main(String []args) {
-        // To Calculate Area of Circle, Diameter of Circle , Circumference of Circle
+        // Java program to calculate Area, Diameter and Circumference of a circle using user input.
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter radius of the circle: ");
         double radius = sc.nextDouble();

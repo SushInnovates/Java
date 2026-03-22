@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AreaOfTriangle {
     public static void main(String[] args) {
-
+        // Java program to calculate the area of a triangle using base and height
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter base of the triangle: ");

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RectangleCalculations {
     public static void main(String[] args) {
-        // Java Program to Calculate the area and perimeter of a rectangle using user input
+        // Java Program to Calculate the Area and Perimeter of a Rectangle using User Input
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter length of rectangle: ");

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DaysConverter {
     public static void main(String[] args) {
-
+        // Java program to convert a given number of days into years, weeks, and remaining days
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter number of days: ");

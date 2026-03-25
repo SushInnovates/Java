@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ThirdAngleTriangle {
     public static void main(String[] args) {
-        // Java program to calculate the third angle of a triangle when two angles are given
+        // Java Program to Calculate the Third Angle of a Triangle when Two Angles are given
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first angle: ");

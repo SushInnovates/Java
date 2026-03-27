@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class StudentMarks {
     public static void main(String[] args) {
-
+        // Java program to calculate total marks, average, and percentage of a student based on marks of five subjects.
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter marks of Subject 1: ");

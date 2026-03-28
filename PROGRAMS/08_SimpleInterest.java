@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SimpleInterest {
     public static void main(String[] args) {
-        // Java program to calculate Simple Interest using principal amount, rate of interest, and time
+        // Java Program to calculate Simple Interest using principal amount, rate of interest, and time
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter Principal amount: ");

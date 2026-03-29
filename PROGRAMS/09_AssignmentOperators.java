@@ -1,6 +1,6 @@
 public class AssignmentOperators {
     public static void main(String[] args) {
-
+        // Java program demonstrating different assignment operators such as +=, -=, *=, /=, and %=.
         int a = 10;
 
         System.out.println("Initial value: " + a);

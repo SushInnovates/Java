@@ -1,6 +1,6 @@
 public class ComparisonOperators {
     public static void main(String[] args) {
-        // Java pProgram Demonstrating different comparison operators such as ==, !=, >, <, >=, <=
+        // Java Program Demonstrating Different Comparison Operators Such as ==, !=, >, <, >=, <=
         int a = 10;
         int b = 5;
 

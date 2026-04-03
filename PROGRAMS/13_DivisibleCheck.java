@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class DivisibleCheck {
     public static void main(String[] args) {
-        // Java Program to Check Whether a Number Is Divisible by another number using the modulus (%) operator
+        // Java Program to Check Whether a Number Is Divisible by Another Number Using The Modulus (%) Operator
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the number: ");

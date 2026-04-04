@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class EvenOdd {
     public static void main(String[] args) {
-        // Java Program To Check Whether a Given number is even or odd using the modulus (%) operator
+        // Java Program To Check Whether a Given Number Is Even or Odd Using the Modulus (%) Operator
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number: ");

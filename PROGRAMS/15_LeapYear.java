@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LeapYear {
     public static void main(String[] args) {
-        // Java program to check whether a given year is a leap year or a common year using conditional statements
+        // Java Program To Check Whether a Given Year is a leap year or a common year using conditional statements
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a year: ");

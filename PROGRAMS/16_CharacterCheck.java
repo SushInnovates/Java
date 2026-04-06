@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CharacterCheck {
     public static void main(String[] args) {
-        // Java Program To Check Whether The Entered Value Is an Alphabet Character or not using conditional statements
+        // Java Program To Check Whether The Entered Value Is an Alphabet Character Or Not Using Conditional Statements
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a character: ");

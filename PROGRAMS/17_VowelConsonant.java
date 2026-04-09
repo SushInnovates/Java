@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class VowelConsonant {
     public static void main(String[] args) {
-    // Java program to check whether the entered character is a vowel or consonant using logical operators
+    // Java Program to Check Whether The Entered Character Is a Vowel or Consonant Using Logical Operators
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a character: ");
